@@ -1,0 +1,56 @@
+# depslib dependency file v1.0
+1748989536 source:c:\users\davi\documentos\opengl\projetotexturas\main.cpp
+	<GL/glew.h>
+	<GLFW/glfw3.h>
+	<glm/glm.hpp>
+	<glm/gtc/matrix_transform.hpp>
+	<glm/gtc/type_ptr.hpp>
+	"../include/stb_image.h"
+	<iostream>
+	<vector>
+	"../include/Sprite.h"
+
+1748987909 c:\users\davi\documentos\opengl\projetotexturas\stb_image.h
+	"stb_image.h"
+	<stdio.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+	<math.h>
+	<stdio.h>
+	<assert.h>
+	<stdint.h>
+	<emmintrin.h>
+	<intrin.h>
+	<arm_neon.h>
+
+1748988490 c:\users\davi\documentos\opengl\projetotexturas\include\sprite.h
+	<GL/glew.h>
+	<glm/glm.hpp>
+	<string>
+
+1748989529 source:c:\users\davi\documentos\opengl\projetotexturas\src\sprite.cpp
+	"Sprite.h"
+	<glm/gtc/matrix_transform.hpp>
+	<glm/gtc/type_ptr.hpp>
+	"../include/stb_image.h"
+	<iostream>
+
+1748987909 c:\users\davi\documentos\opengl\projetotexturas\include\stb_image.h
+	"stb_image.h"
+	<stdio.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+	<math.h>
+	<stdio.h>
+	<assert.h>
+	<stdint.h>
+	<emmintrin.h>
+	<intrin.h>
+	<arm_neon.h>
+
